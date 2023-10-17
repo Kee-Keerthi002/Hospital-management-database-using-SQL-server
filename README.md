@@ -4,7 +4,7 @@ A hospital management database using SQL Server is a database that stores and ma
 
 A more detailed description of the different types of data that a hospital management database might store:
 
-* *Patient data:* This includes patient demographics, contact information, insurance information, and medical history.
+* *Patient data:*  This includes patient demographics, contact information, insurance information, and medical history.
 * *Medical records:* This includes patient diagnoses, medications, treatments, and lab results.
 * *Staff data:* This includes employee demographics, contact information, job titles, and salaries.
 * *Financial data:* This includes billing information, insurance payments, and other financial transactions.
