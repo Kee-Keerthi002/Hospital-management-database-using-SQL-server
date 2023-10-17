@@ -17,7 +17,7 @@ In addition to storing data, a hospital management database can also be used to 
 
 A hospital management database can be a valuable tool for any hospital. By storing and managing data effectively, a hospital can improve efficiency, reduce costs, and provide better patient care.
 
-Here are some specific examples of how a hospital management database could be used:
+Some specific examples of how a hospital management database could be used:
 
 * *A doctor could use the database to quickly access a patient's medical history, including their diagnoses, medications, and treatments.* This would allow the doctor to provide better care for the patient.
 * *A hospital administrator could use the database to generate reports on patient demographics, medical procedures, and financial performance.* This information could be used to improve the hospital's operations and make better decisions about resource allocation.
